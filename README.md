@@ -13,7 +13,7 @@ The goal is to clean the dataset, handle missing values, and extract key busines
 - Missing values (nulls)
 
 ## 🧹 Data Cleaning
-** Steps performed:**
+**Steps performed:**
 - Handling missing values (NA)
 - Removing inconsistencies
 

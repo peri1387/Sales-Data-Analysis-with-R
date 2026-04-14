@@ -1,33 +1,34 @@
-📊 Sales Data Analysis with R
+# 📊 Sales Data Analysis with R
 
-📌 Project Overview
+## 📌 Project Overview
 This project analyzes sales data for 3 products over time.
 The goal is to clean the dataset, handle missing values, and extract key business insights using R.
 
-📂 Dataset
-The dataset includes:
-Date
-Product
-Quantity
-Unit_Price
-Missing values (nulls)
+## 📂 Dataset
+**The dataset includes:**
+- Date
+- Product
+- Quantity
+- Unit_Price
+- Missing values (nulls)
 
-🧹 Data Cleaning
-Steps performed:
-Handling missing values (NA)
-Removing inconsistencies
-📈 KPIs Calculated
-Total Revenue
-Total Sales per Product
-Quantity Sold over Time
-Revenue Trends
+## 🧹 Data Cleaning
+** Steps performed:**
+- Handling missing values (NA)
+- Removing inconsistencies
 
-📊 Visualizations
-Sales over time
-Revenue by product
-Quantity distribution
+## 📈 KPIs Calculated
+- Total Revenue
+- Total Sales per Product
+- Quantity Sold over Time
+- Revenue Trends
 
-🔍 Key Insights
+## 📊 Visualizations
+- Sales over time
+- Revenue by product
+- Quantity distribution
+
+## 🔍 Key Insights
 The monthly revenue analysis for 2025 reveals significant fluctuations in sales performance throughout the year.
 Revenue shows high volatility, with no clear stable trend across months.
 A sharp decline in May is observed, followed by a strong recovery in June, which represents the highest revenue point of the year.

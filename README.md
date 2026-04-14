@@ -54,8 +54,8 @@ This behavior suggests that the business might not be following a consistent lon
 - lubridate
 
 ## 🚀 How to Run
-Clone the repository
-Open the notebook in RStudio or Kaggle
-Run all cells
+- Clone the repository
+- Open the notebook in RStudio or Kaggle
+- Run all cells
 ---------------------------------------
 ### ©️ 2026 Periklis Andrianos

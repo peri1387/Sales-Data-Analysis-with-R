@@ -28,6 +28,11 @@ The goal is to clean the dataset, handle missing values, and extract key busines
 - Revenue by product
 - Quantity distribution
 
+<img width="840" height="840" alt="output" src="https://github.com/user-attachments/assets/9306fde7-a42b-4764-aa31-29f7b381eefe" />
+<img width="840" height="840" alt="output2" src="https://github.com/user-attachments/assets/be223146-5e66-4237-adaf-de839e8146a6" />
+<img width="840" height="840" alt="output3" src="https://github.com/user-attachments/assets/c6ba8415-b45b-4dae-85e5-bc80f3953a24" />
+
+
 ## 🔍 Key Insights
 - The monthly revenue analysis for 2025 reveals significant fluctuations in sales performance throughout the year.
 - Revenue shows high volatility, with no clear stable trend across months.
